@@ -2,64 +2,62 @@
 
 **Software Engineer · Tech Manager · AI Systems Builder**
 
-Designing and shipping **production-grade LLM and agent systems** — long-living, observable, and built to last.
+Designing and shipping production-grade LLM and agent systems: long-living, observable, and built to last.
 
 ---
 
 ## About me
 
-I work at the intersection of **hands-on engineering** and **technical leadership** — building systems that are maintainable, observable, and resilient, and shipping them with predictable delivery.
+I work at the intersection of hands-on engineering and technical leadership, with a focus on systems that hold up in production and delivery that stays predictable.
 
 My approach is pragmatic and execution-oriented:
 
-- **Clarity, efficiency, predictable delivery** over heroics
-- **Maintainable, observable, resilient** systems by default
-- **Structured engineering practices** — testing, documentation, SDLC
-- **Communication treated as a core engineering skill**
+- **Maintainability, observability, and resilience** as default properties of a system, not afterthoughts
+- **Predictable delivery**: clear scope, honest estimates, steady progress
+- **Structured engineering practices**: testing, evaluation, documentation, and SDLC, applied to AI systems the same as to any other software
+- **Communication treated as a core engineering skill**: decisions, designs, and trade-offs are written down
 
 ---
 
 ## Current focus
 
-Applying **LLMs and agent-based systems** to real engineering workflows — not demos. Specifically:
+Applying LLMs and agent-based systems to real engineering workflows. I am most interested in systems where the model is a core component of a structured, production-grade workflow rather than a peripheral assistant.
 
-- Designing **LLM-powered tools** for developers
-- Building **agent workflows** that automate multi-step reasoning and execution
-- Integrating AI into **CI/CD, debugging, and knowledge systems**
-- Exploring **human-in-the-loop systems** for reliable automation
-- Optimizing **prompting, context management, and tool orchestration**
+In practice this means:
 
-I'm most interested in systems where LLMs are not just assistants, but **core components of structured, production-grade workflows**.
-
----
-
-## AI consulting
-
-I help teams and organizations adopt AI in a **practical, engineering-driven way** — turning "we should use AI somewhere" into measurable upgrades to existing products and workflows.
-
-Typical engagements:
-
-- Identifying **high-impact LLM use cases** in existing products and workflows
-- Designing **agent-based architectures** and automation pipelines
-- Integrating AI into **engineering processes** (development, testing, operations)
-- Improving **developer productivity** with AI-assisted tooling
-- Establishing **safe and maintainable AI adoption practices**
-
-Open to consulting and collaboration on meaningful AI initiatives.
+- **Agent workflows** that automate multi-step reasoning and execution, with human-in-the-loop controls where reliability requires them
+- **LLM-powered developer tooling**: code review, debugging, CI/CD, knowledge systems
+- **The engineering fundamentals underneath**: prompting, context management, tool orchestration, evaluation, and cost control
 
 ---
 
 ## Projects
 
-Currently my main open-source project is **[Graphorin](https://github.com/o-stepper/graphorin)** — a TypeScript framework for long-living personal AI assistants, with rich memory, durable workflow, and observability out of the box. Local-first by default. More at [graphorin.com](https://graphorin.com) and [docs.graphorin.com](https://docs.graphorin.com).
+My main open-source project is **[Graphorin](https://github.com/o-stepper/graphorin)**: a TypeScript framework for long-living personal AI assistants, with six-tier memory, durable workflows, vendor-neutral LLM providers, and built-in observability. Local-first and private by default.
 
-More projects around **LLM workflows, agent systems, and developer productivity** will land here over time.
+Details and documentation: [graphorin.com](https://graphorin.com) · [docs.graphorin.com](https://docs.graphorin.com)
+
+More projects around LLM workflows, agent systems, and developer productivity will land here over time.
+
+---
+
+## AI consulting
+
+I help teams and organizations adopt AI in a practical, engineering-driven way: turning "we should use AI somewhere" into specific, measurable improvements to existing products and workflows.
+
+A typical engagement covers:
+
+- **Use-case selection**: identifying where LLMs provide real leverage in your product and processes, and where they do not
+- **System design**: agent architectures, automation pipelines, and human-in-the-loop controls appropriate to your stack and risk profile
+- **Integration**: bringing AI into development, testing, and operations without destabilizing existing processes
+- **Sustainability**: evaluation practices, guardrails, and documentation, so the system can be maintained and improved by your own team
+
+Open to consulting and collaboration on meaningful AI initiatives.
 
 ---
 
 ## Contact
 
-- **Email** — [step.oleksiy@gmail.com](mailto:step.oleksiy@gmail.com)
-- **GitHub** — [github.com/o-stepper](https://github.com/o-stepper)
+- **Email**: [step.oleksiy@gmail.com](mailto:step.oleksiy@gmail.com)
 
-For commercial enquiries, partnerships, consulting, or anything that does not fit a public issue — reach out by email.
+For commercial enquiries, partnerships, consulting, or anything that does not fit a public issue, reach out by email.
