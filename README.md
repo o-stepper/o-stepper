@@ -37,6 +37,10 @@ My main open-source project is **[Graphorin](https://github.com/o-stepper/grapho
 
 Details and documentation: [graphorin.com](https://graphorin.com) · [docs.graphorin.com](https://docs.graphorin.com)
 
+**[Rulvar](https://github.com/o-stepper/rulvar)** is an embeddable TypeScript engine for durable multi-agent workflows, with deterministic replay (completed steps are not re-executed or re-paid for after crashes and redeploys), hard budget enforcement, and vendor-neutral model routing.
+
+Details and documentation: [rulvar.com](https://rulvar.com) · [docs.rulvar.com](https://docs.rulvar.com)
+
 More projects around LLM workflows, agent systems, and developer productivity will land here over time.
 
 ---
