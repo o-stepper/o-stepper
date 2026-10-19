@@ -1,4 +1,4 @@
-# Oleksiy Stepurenko
+# Oleksii Stepurenko
 
 **Software Engineer · Tech Manager · AI Systems Builder**
 
