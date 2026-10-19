@@ -63,5 +63,6 @@ Open to consulting and collaboration on meaningful AI initiatives.
 ## Contact
 
 - **Email**: [step.oleksiy@gmail.com](mailto:step.oleksiy@gmail.com)
+- **LinkedIn**: [in/oleksii-stepurenko](https://www.linkedin.com/in/oleksii-stepurenko)
 
 For commercial enquiries, partnerships, consulting, or anything that does not fit a public issue, reach out by email.
